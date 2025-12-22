@@ -8,7 +8,7 @@ const PHONE_LINK = "tel:+13465223259";
 const PRIMARY_COLOR = '#B2904D';
 const HOME_URL = "https://manuelsolis.com"; 
 // URL del video en formato Embed para que funcione en el iframe
-const VIDEO_EMBED_URL = "https://iframe.mediadelivery.net/embed/547379/14e96b78-a121-40ff-a133-ae2cfa8f80c8?autoplay=true&muted=true&loop=true";
+const VIDEO_EMBED_URL = "https://iframe.mediadelivery.net/embed/547379/6b5393e3-7e65-419a-9011-60583cc2b5bc?autoplay=true&muted=true&loop=true";
 
 export default function LandingPage() {
   const [videoExpanded, setVideoExpanded] = useState(false);
